@@ -127,3 +127,20 @@ td, th {
 #tableOfContents a:hover {
    color:   rgb(146, 248, 143);
 }
+
+
+.copyrightBtn button {
+    border: 2px solid rgb(255, 102, 102) ;
+    background-color: transparent;
+    padding: 2%;
+    border-radius: 10px;
+}
+
+.copyrightBtn button:hover {
+    border: 2px solid rgb(146, 248, 143) ;
+    background-color: rgb(146, 248, 143);
+    transition: 0.5s;
+    padding: 2%;
+    border-radius: 10px;
+    cursor: pointer;
+}

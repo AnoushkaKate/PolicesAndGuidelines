@@ -74,6 +74,7 @@ hr {
     text-overflow: clip;
     text-align: left;
     color:  rgb(93, 0, 104);
+    line-height: 1.5;
 }
 
 #privacyPolicyContainer a:hover {
@@ -103,7 +104,7 @@ td, th {
     font-weight: lighter;
     border: 2px solid   rgb(135, 153, 255) ;
 }
- ul{
+.container ul{
     list-style: none;
 }
   
@@ -126,4 +127,11 @@ td, th {
 
 #tableOfContents a:hover {
    color:  rgb(255, 238, 126);
+}
+
+
+.inShort {
+    background-color: rgba(192, 192, 192, 0.336);
+    padding: 5px;
+    border-radius: 10px;
 }
