@@ -84,6 +84,7 @@ hr {
     text-overflow: clip;
     text-align: left;
     color: rgb(93, 0, 104);
+    line-height: 1.5;
 }
 
 #privacyPolicyContainer a:hover {
